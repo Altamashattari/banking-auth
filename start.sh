@@ -2,7 +2,7 @@
 SERVER_ADDRESS=localhost \
 SERVER_PORT=8181 \
 DB_USER=root \
-DB_PASSWD=codecamp \
+DB_PASSWD=password \
 DB_ADDR=localhost \
 DB_PORT=3306 \
 DB_NAME=banking \
